@@ -1,4 +1,1 @@
-conditioner-bower
-=================
-
-ConditionerJS Bower Endpoint
+Bower Endpoint for [ConditionerJS](http://conditionerjs.com)
