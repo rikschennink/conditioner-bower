@@ -8,6 +8,7 @@
   "description":"A javascript library for loading and unloading behavior based on environment conditions",
   "main":"conditioner.js",
   "ignore":[
-    "README.md"
+    "README.md",
+    ".gitignore"
   ]
 }
