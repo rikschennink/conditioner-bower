@@ -7,15 +7,6 @@
   ],
   "description":"A javascript library for loading and unloading behavior based on environment conditions",
   "main":"conditioner.js",
-  "keywords":[
-    "javascript",
-    "media queries",
-    "media query",
-    "requirejs",
-    "conditions",
-    "shampoo"
-  ],
-  "license":"MIT",
   "ignore":[
     "README.md"
   ]
