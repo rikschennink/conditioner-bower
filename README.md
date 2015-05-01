@@ -1,4 +1,4 @@
-Bower Endpoint for [ConditionerJS](http://conditionerjs.com)
+Bower Endpoint for [ConditionerJS](http://conditionerjs.com) production version.
 
 Run `bower install conditioner` to install the package.
 

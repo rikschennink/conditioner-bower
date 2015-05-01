@@ -1,11 +1,11 @@
 {
   "name":"conditioner",
-  "version":"1.0.1",
+  "version":"1.1.0",
   "homepage":"http://conditionerjs.com",
   "authors":[
     "rikschennink.nl"
   ],
-  "description":"A javascript library for loading and unloading behavior based on environment conditions",
+  "description":"A javascript library for loading and unloading behavior based on environment conditions.",
   "main":"conditioner.js",
   "ignore":[
     "README.md",
