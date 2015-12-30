@@ -1,6 +1,6 @@
 {
-  "name":"conditioner",
-  "version":"1.1.0",
+  "name":"conditioner.js",
+  "version":"1.2.0",
   "homepage":"http://conditionerjs.com",
   "authors":[
     "rikschennink.nl"
